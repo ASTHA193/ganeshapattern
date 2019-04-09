@@ -2,8 +2,8 @@
 Pattern printing of ganesha using if else condition.
 The number of rows and columns should be same and an odd number. This will generate a perfect ganesha pattern.<br/>
      *     * * * *<br/>
-     *     *<br/>
-     *     *<br/>
+     *     *      <br/>
+     *     *      <br/>
      * * * * * * *<br/>
            *     *<br/>
            *     *<br/>
